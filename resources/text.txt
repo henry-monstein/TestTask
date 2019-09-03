@@ -1,0 +1,3 @@
+Name: Dmitry; Surname: Lishko; Email: 1268620@gmail.com; Roles: [student, programmer]; Phones: [37529 1268620, 37529 1268621];
+Name: Henry; Surname: Monstein; Email: h.monstein@gmail.com; Roles: [student, programmer]; Phones: [37529 1324567, 37544 1234567];
+Name: Derek; Surname: Johnson; Email: d.johnson@gmail.com; Roles: [student, programmer]; Phones: [37529 1355567, 37544 1234067];
